@@ -1,0 +1,32 @@
+html{
+    box-sizing: border-box;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+.phim{
+    width: 50rem;
+    margin: auto;
+}
+[class^='phim-']{
+    width: 10rem;
+    height: 10rem;
+}
+.ket-qua{
+    height: 10rem;
+    width: 50rem;
+    margin: auto;
+    margin-top: 5rem;
+    border: 1px solid black;
+    text-align: right;
+    font-weight: 800;
+    padding-top: 2.5rem;
+    padding-right: 1rem;
+    font-size: 3rem;
+    box-sizing: border-box;
+}
+.ket-qua__sub{
+    height: 2rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+}

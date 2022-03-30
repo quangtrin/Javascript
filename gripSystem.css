@@ -1,0 +1,31 @@
+
+.row{
+    margin: auto;
+}
+.col{
+    height: 40rem;
+}
+.row-1-of-4{
+    display: inline-block;
+}
+.col-1-of-4{
+    float: left;
+    display: inline-block;
+    width: 10rem;
+}
+.col-4-of-5{
+    float: left;
+    display: inline-block;
+    width: 40rem;
+}
+.col-1-of-5{
+    float: left;
+    display: inline-block;
+    width: 10rem;
+}
+.row-2-of-4{
+    height: 20rem;
+}
+.row-1-of-4{
+    height: 10rem;
+}
